@@ -12,3 +12,5 @@ https://mega.nz/file/W2plBaSK#UF4zx1PBn51KsogzB5EiN2Iu4BVw7xsqZi_UklPOLjg
 
 https://www.hyperui.dev
 
+https://lucide.dev/guide/packages/lucide-react
+
